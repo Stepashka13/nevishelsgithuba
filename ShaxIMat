@@ -1,0 +1,2 @@
+a = mne_pofig
+print (a)
